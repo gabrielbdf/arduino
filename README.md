@@ -1,4 +1,4 @@
 arduino
 =======
 
-Algumas coisas feita com arduino! o/
+Algumas coisas feitas com arduino! o/
